@@ -29,11 +29,11 @@ Read the data from the data store
 ```shell
 docker run -it --volumes-from data-store thiagoh/docker-reader
 ```
-Open another shell to keep writting to the data-store as you want. Try the 
+Open another shell to keep writting to the data-store as you want
 ```shell
 docker run -it --volumes-from data-store busybox /bin/sh
 
-/ # i=0;while [ $i -lt 10 ];do echo "$i line $(date)" >> /my-data/readable-file; i=$(($i+1));done;
+/ $ i=0;while [ $i -lt 10 ];do echo "$i line $(date)" >> /my-data/readable-file; i=$(($i+1));done;
 ```
 
 The ouput in the reader image (thiagoh/docker-reader) will be something like this
