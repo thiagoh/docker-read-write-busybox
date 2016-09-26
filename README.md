@@ -72,3 +72,8 @@ then run the `docker-reader`
 ```shell
 docker run -it --volumes-from 101640a35fd8 thiagoh/docker-reader
 ```
+
+This project was inspired in
+
+ - [Tiny Docker Pieces, Loosely Joined](http://www.offermann.us/2013/12/tiny-docker-pieces-loosely-joined.html)
+ - [Advanced Docker Volumes](http://crosbymichael.com/advanced-docker-volumes.html)
