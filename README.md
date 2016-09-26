@@ -77,3 +77,4 @@ This project was inspired in
 
  - [Tiny Docker Pieces, Loosely Joined](http://www.offermann.us/2013/12/tiny-docker-pieces-loosely-joined.html)
  - [Advanced Docker Volumes](http://crosbymichael.com/advanced-docker-volumes.html)
+ - [Creating and mounting a data volume container](https://docs.docker.com/engine/tutorials/dockervolumes/#/creating-and-mounting-a-data-volume-container)
