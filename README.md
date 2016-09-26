@@ -78,3 +78,4 @@ This project was inspired in
  - [Tiny Docker Pieces, Loosely Joined](http://www.offermann.us/2013/12/tiny-docker-pieces-loosely-joined.html)
  - [Advanced Docker Volumes](http://crosbymichael.com/advanced-docker-volumes.html)
  - [Creating and mounting a data volume container](https://docs.docker.com/engine/tutorials/dockervolumes/#/creating-and-mounting-a-data-volume-container)
+ - [How to deal with persistent storage (e.g. databases) in docker](http://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker?rq=1)
